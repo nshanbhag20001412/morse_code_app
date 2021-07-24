@@ -1,4 +1,5 @@
 
-function myFunction() {
+function myFunction()
+ {
     console.log("Clicked")
   }
