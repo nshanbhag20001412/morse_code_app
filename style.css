@@ -1,0 +1,22 @@
+
+:root{
+
+}
+body{
+    margin:0 0 0 2rem;
+}
+
+textarea{
+            width: 80%;
+            height: 10vh;
+            display: block;
+            padding: 1rem;
+}
+
+.btn{
+    font-size:1rem;
+}
+
+.morse{
+    margin:0 0 1rem 0;
+}
