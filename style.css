@@ -85,6 +85,7 @@ textarea {
     width: 80%;
     margin: 1rem;
     padding: 1rem;
+    color:black;
 }
 .footer{
     background-color:var(--green);
